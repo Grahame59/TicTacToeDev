@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: TTTPurpleFinished
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 8e7dc7f4fdeded842a2343e24834d393, type: 3}
+  templateName: PurpleSkyTTT
+  description: 
+  preview: {fileID: 2800000, guid: 27f912fb5430ccb4e86dc7d8a995b3e0, type: 3}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 7c3bb5b28fb41354d8d18ef2bbce4888, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 4c9a220cd9d064f458695f3a49d1ffa1, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: d00ea8df83da9f24e9e8ca100460a2fe, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8f90abf9dde27114ca0c75a879a08146, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ee148e281f3c41c5b4ff5f8a5afe5a6c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: c5fdc68d26052304eb9c02316b194b21, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8284594566691917328, guid: c4ddbec74531f4241b08f7406b9405bb, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 37d542b6e9a39ee4da43d253d38a5a2e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 618b223c0deb4f84f8df498cdd7859d0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 2783952c6df735a40bc50ea48aa18c7d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 09d0c0c5cd7ef264caddd5a113855843, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 27f912fb5430ccb4e86dc7d8a995b3e0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 1
