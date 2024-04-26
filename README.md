@@ -1,2 +1,6 @@
 # TicTacToeDev
  My first project I am seriously trying to develope and polish well learning Unity, GitHub, etc... 
+
+#Either fully completed or almost completed code... This project was completed a few weeks back but I got busy with Uni and its messy because I am just learning Github for the first time. Trying to cleanly uploaded the final 
+build of the project that is ready to for configs. in xCode and then published to the IOS app store. (4/26/24) ... 
+
